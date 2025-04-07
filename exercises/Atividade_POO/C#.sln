@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercises", "exercises", "{72EF5EB1-B308-CD20-4E1B-89C2486FD9E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "exercises\Atividade-Switch-Case\ConsoleApp2.csproj", "{317E142F-7167-3188-86E8-1138A146BF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade-POO", "exercises\Atividade_POO\Atividade-POO.csproj", "{6659ACB1-08A2-4410-BF93-9408C6DA884A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{317E142F-7167-3188-86E8-1138A146BF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317E142F-7167-3188-86E8-1138A146BF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317E142F-7167-3188-86E8-1138A146BF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317E142F-7167-3188-86E8-1138A146BF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6659ACB1-08A2-4410-BF93-9408C6DA884A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6659ACB1-08A2-4410-BF93-9408C6DA884A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6659ACB1-08A2-4410-BF93-9408C6DA884A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6659ACB1-08A2-4410-BF93-9408C6DA884A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{317E142F-7167-3188-86E8-1138A146BF8F} = {72EF5EB1-B308-CD20-4E1B-89C2486FD9E1}
+		{6659ACB1-08A2-4410-BF93-9408C6DA884A} = {72EF5EB1-B308-CD20-4E1B-89C2486FD9E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC85A8D-26F8-467A-B9AA-A8DBBBC42686}
+	EndGlobalSection
+EndGlobal
