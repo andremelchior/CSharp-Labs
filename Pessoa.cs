@@ -8,12 +8,17 @@ namespace introductionOOP
 {
     internal class Pessoa
     {
+        public string nome;
+        public string email;
+        public int idade;
+        public string cpf;
         public double altura;
         public double peso;
         public string etnia;
-        public string nome;
-        public int idade;
 
-
+        public void mostraNome()
+        {
+            Console.WriteLine("\nNome: {0}", nome);
+        }
     }
 }
