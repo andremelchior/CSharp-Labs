@@ -1,7 +1,0 @@
-C:\Users\Aluno\source\repos\introductionOOP\introductionOOP\bin\Debug\introductionOOP.exe.config
-C:\Users\Aluno\source\repos\introductionOOP\introductionOOP\bin\Debug\introductionOOP.exe
-C:\Users\Aluno\source\repos\introductionOOP\introductionOOP\bin\Debug\introductionOOP.pdb
-C:\Users\Aluno\source\repos\introductionOOP\introductionOOP\obj\Debug\introductionOOP.csproj.AssemblyReference.cache
-C:\Users\Aluno\source\repos\introductionOOP\introductionOOP\obj\Debug\introductionOOP.csproj.CoreCompileInputs.cache
-C:\Users\Aluno\source\repos\introductionOOP\introductionOOP\obj\Debug\introductionOOP.exe
-C:\Users\Aluno\source\repos\introductionOOP\introductionOOP\obj\Debug\introductionOOP.pdb
